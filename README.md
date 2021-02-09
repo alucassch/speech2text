@@ -42,24 +42,3 @@ All datasets can be found [here](http://igormq.github.io/datasets).
 | [char 20-gram*](http://www02.smt.ufrj.br/~igor.quintanilha/pt-BR.char.20-gram.binary)   | 20 | 8.8G |       <=227.84$ |       <=189.53  |
 
 *All models were trained using KenLM. More detailed information in the paper.
-
-
-## Training
-
-Coming soon.
-
-### AM
-
-Coming soon.
-
-### LM
-
-Coming soon.
-
-### CTC beam search decoding with an external LM
-
-Coming soon.
-
-## Evaluating
-
-Coming soon.
